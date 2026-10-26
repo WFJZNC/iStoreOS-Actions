@@ -35,7 +35,7 @@
 ## 😊 支持设备 [![](https://img.shields.io/badge/-支持设备-FFFFFF.svg)](#-支持设备-)
 | 芯片     | 设备 |
 |----------|------|
-| rk3566   | Panther-X2, JP-TvBox, LCKFB-Taishan-Pi, WXY-OEC-turbo-4g, Station-M2, Orange-Pi-3B, X88Pro20, LubanCat-1 |
+| rk3566   | WXY-OEC-turbo-4g |
 ---
 
 ## 🎉 Thanks [![](https://img.shields.io/badge/-Thanks-FFFFFF.svg)](#-Thanks-)
